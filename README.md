@@ -61,7 +61,7 @@ A prototype microcontroller-based system for monitoring patient vitals.
 ---
 
 ## 📬 **Connect With Me**
-📧 **Email:** khushikatwe@gmail.com  
+📧 **Email:** khushikatwe407@gmail.com  
 🔗 **GitHub:** https://github.com/khushikatwe  
 🔗 **LinkedIn:** https://www.linkedin.com/in/khushi-p-katwe-a94621330  
 
