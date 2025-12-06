@@ -1,12 +1,67 @@
-| Project                                      | Tech Stack                                                                                                                                                                                                                                                                                                        | Repo Link                                                                                                            | Live Demo                                                                                      |
-| -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| **Snake Game**                               | ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=yellow) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white) | [https://github.com/khushikatwe/snake-game](https://github.com/khushikatwe/snake-game)                               | [https://khushikatwe.github.io/snake-game/](https://khushikatwe.github.io/snake-game/)         |
-| **Candidate Registration Form**              | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)                                                                                                         | [https://github.com/khushikatwe/candidate-form](https://github.com/khushikatwe/candidate-form)                       | [https://khushikatwe.github.io/candidate-form/](https://khushikatwe.github.io/candidate-form/) |
-| **Patient Monitoring System (UI Prototype)** | ![Figma](https://img.shields.io/badge/Figma-303030?style=for-the-badge\&logo=figma\&logoColor=white)                                                                                                                                                                                                              | —                                                                                                                    | [https://surf-chill-33285139.figma.site/](https://surf-chill-33285139.figma.site/)             |
-| **Lyrics Search App**                        | ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=yellow) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)                                                                                                  | [https://github.com/khushikatwe/Lyrics-search](https://github.com/khushikatwe/Lyrics-search)                         | [https://khushikatwe.github.io/Lyrics-search/](https://khushikatwe.github.io/Lyrics-search/)   |
-| **Digital Diet App**                         | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=yellow)                                                                                                                                                                                                          | [https://github.com/khushikatwe/digital-diet-app](https://github.com/khushikatwe/digital-diet-app)                   | —                                                                                              |
-| **Sample Cleaning Script**                   | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=yellow)                                                                                                                                                                                                          | [https://github.com/khushikatwe/sample-cleaning](https://github.com/khushikatwe/sample-cleaning)                     | —                                                                                              |
-| **RaceLit Abstract Cleaner**                 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=yellow)                                                                                                                                                                                                          | [https://github.com/khushikatwe/RaceLit](https://github.com/khushikatwe/RaceLit)                                     | —                                                                                              |
-| **Semantic Search Vector DB**                | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=yellow) ![ML](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge\&logo=tensorflow\&logoColor=orange)                                                                                       | [https://github.com/khushikatwe/semantic-search-vector-db](https://github.com/khushikatwe/semantic-search-vector-db) | —                                                                                              |
-| **SmartQ – Digital Token System**            | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=yellow)                                                                                                  | [https://github.com/khushikatwe/smartq](https://github.com/khushikatwe/smartq)                                       | [https://khushikatwe.github.io/smartq/](https://khushikatwe.github.io/smartq/)                 |
-| **Patient Monitoring System (IoT)**          | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)                                                                                                                                                                                                               | [https://github.com/khushikatwe/Patient-Monitoring-System](https://github.com/khushikatwe/Patient-Monitoring-System) | —                                                                                              |
+# Hi, I'm Khushi 
+### **B.Tech ISE Student | AI & IoT Projects |tech + People + Problem Solving**
+
+## 🔧 **Tech & Tools I Work With**
+- **Languages:** C, Java (Basics), Python (Basics), HTML, CSS  
+- **Skills:** Data Handling, Problem Solving, Requirements Understanding  
+- **Tools:** GitHub, Excel, Canva, VS Code  
+- **Domains:** AI Basics, IoT Systems, Web Projects, Product Thinking  
+
+---
+
+🚀 Projects
+Snake Game (HTML, CSS, JavaScript)
+
+Live Demo: https://khushikatwe.github.io/snake-game/
+
+Candidate Registration Form (React via CDN)
+
+Live Demo: https://khushikatwe.github.io/candidate-form/
+
+Patient Monitoring System (C / Embedded Logic)
+
+Live Demo (UI Prototype): https://surf-chill-33285139.figma.site/
+
+Lyrics Search App (JavaScript)
+
+Repository: https://github.com/khushikatwe/Lyrics-search
+
+Live Demo: https://khushikatwe.github.io/Lyrics-search/
+
+Digital Diet App (Python)
+
+Repository: https://github.com/khushikatwe/digital-diet-app
+
+Sample Cleaning Script (Python)
+
+Repository: https://github.com/khushikatwe/sample-cleaning
+
+RaceLit Abstract Cleaner (Python)
+
+Repository: https://github.com/khushikatwe/RaceLit
+
+Semantic Search Vector DB (Python – Embeddings + FAISS)
+
+Repository: https://github.com/khushikatwe/semantic-search-vector-db
+
+SmartQ – Digital Token Queue System (HTML, JavaScript)
+
+Repository: https://github.com/khushikatwe/smartq
+
+Live Demo: https://khushikatwe.github.io/smartq/
+
+Patient Monitoring System (IoT Prototype)
+
+Repository: https://github.com/khushikatwe/Patient-Monitoring-System
+
+Candidate Registration Form (HTML Version)
+
+Repository: https://github.com/khushikatwe/candidate-form
+
+Live Demo: https://khushikatwe.github.io/candidate-form/
+
+Snake Game (JavaScript Version)
+
+Repository: https://github.com/khushikatwe/snake-game
+
+Live Demo: https://khushikatwe.github.io/snake-game/
