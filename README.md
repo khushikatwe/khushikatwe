@@ -84,4 +84,5 @@ My focus is on practical problem solving, clean execution, and continuous learni
 ---
 ## 13. Meal Finder (JavaScript)
 **Live Demo:** https://khushikatwe.github.io/meal-finder/
+
 **Repository:** https://github.com/khushikatwe/meal-finder
