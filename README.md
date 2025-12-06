@@ -1,67 +1,84 @@
-# Hi, I'm Khushi 
-### **B.Tech ISE Student | AI & IoT Projects |tech + People + Problem Solving**
+# Hi, I'm Khushi  
+### B.Tech ISE Student | AI & IoT Projects | Tech, People, and Problem Solving
 
-## 🔧 **Tech & Tools I Work With**
-- **Languages:** C, Java (Basics), Python (Basics), HTML, CSS  
-- **Skills:** Data Handling, Problem Solving, Requirements Understanding  
-- **Tools:** GitHub, Excel, Canva, VS Code  
-- **Domains:** AI Basics, IoT Systems, Web Projects, Product Thinking  
+I enjoy building simple, functional, and impactful tech projects using AI, IoT, and web technologies.  
+My focus is on practical problem solving, clean execution, and continuous learning.
 
 ---
 
-🚀 Projects
-Snake Game (HTML, CSS, JavaScript)
+## Tech & Tools I Work With
+**Languages:** C, Java (Basics), Python (Basics), HTML, CSS  
+**Skills:** Data Handling, Problem Solving, Requirements Understanding  
+**Tools:** GitHub, Excel, Canva, VS Code  
+**Domains:** AI Basics, IoT Systems, Web Projects, Product Thinking  
 
-Live Demo: https://khushikatwe.github.io/snake-game/
+---
 
-Candidate Registration Form (React via CDN)
+# Projects
 
-Live Demo: https://khushikatwe.github.io/candidate-form/
+## 1. Snake Game (HTML, CSS, JavaScript)
+**Live Demo:** https://khushikatwe.github.io/snake-game/  
+**Repository:** https://github.com/khushikatwe/snake-game  
 
-Patient Monitoring System (C / Embedded Logic)
+---
 
-Live Demo (UI Prototype): https://surf-chill-33285139.figma.site/
+## 2. Candidate Registration Form (React via CDN)
+**Live Demo:** https://khushikatwe.github.io/candidate-form/  
+**Repository:** https://github.com/khushikatwe/candidate-form  
 
-Lyrics Search App (JavaScript)
+---
 
-Repository: https://github.com/khushikatwe/Lyrics-search
+## 3. Patient Monitoring System (C / Embedded Logic)
+**UI Prototype:** https://surf-chill-33285139.figma.site/  
+**Repository:** https://github.com/khushikatwe/Patient-Monitoring-System  
 
-Live Demo: https://khushikatwe.github.io/Lyrics-search/
+---
 
-Digital Diet App (Python)
+## 4. Lyrics Search App (JavaScript)
+**Live Demo:** https://khushikatwe.github.io/Lyrics-search/  
+**Repository:** https://github.com/khushikatwe/Lyrics-search  
 
-Repository: https://github.com/khushikatwe/digital-diet-app
+---
 
-Sample Cleaning Script (Python)
+## 5. Digital Diet App (Python)
+**Repository:** https://github.com/khushikatwe/digital-diet-app  
 
-Repository: https://github.com/khushikatwe/sample-cleaning
+---
 
-RaceLit Abstract Cleaner (Python)
+## 6. Sample Cleaning Script (Python)
+**Repository:** https://github.com/khushikatwe/sample-cleaning  
 
-Repository: https://github.com/khushikatwe/RaceLit
+---
 
-Semantic Search Vector DB (Python – Embeddings + FAISS)
+## 7. RaceLit Abstract Cleaner (Python)
+**Repository:** https://github.com/khushikatwe/RaceLit  
 
-Repository: https://github.com/khushikatwe/semantic-search-vector-db
+---
 
-SmartQ – Digital Token Queue System (HTML, JavaScript)
+## 8. Semantic Search Vector DB (Python – Embeddings + FAISS)
+**Repository:** https://github.com/khushikatwe/semantic-search-vector-db  
 
-Repository: https://github.com/khushikatwe/smartq
+---
 
-Live Demo: https://khushikatwe.github.io/smartq/
+## 9. SmartQ – Digital Token Queue System (HTML, JavaScript)
+**Live Demo:** https://khushikatwe.github.io/smartq/  
+**Repository:** https://github.com/khushikatwe/smartq  
 
-Patient Monitoring System (IoT Prototype)
+---
 
-Repository: https://github.com/khushikatwe/Patient-Monitoring-System
+## 10. Patient Monitoring System (IoT Prototype)
+**Repository:** https://github.com/khushikatwe/Patient-Monitoring-System  
 
-Candidate Registration Form (HTML Version)
+---
 
-Repository: https://github.com/khushikatwe/candidate-form
+## 11. Candidate Registration Form (HTML Version)
+**Live Demo:** https://khushikatwe.github.io/candidate-form/  
+**Repository:** https://github.com/khushikatwe/candidate-form  
 
-Live Demo: https://khushikatwe.github.io/candidate-form/
+---
 
-Snake Game (JavaScript Version)
+## 12. Snake Game (JavaScript Version)
+**Live Demo:** https://khushikatwe.github.io/snake-game/  
+**Repository:** https://github.com/khushikatwe/snake-game  
 
-Repository: https://github.com/khushikatwe/snake-game
-
-Live Demo: https://khushikatwe.github.io/snake-game/
+---
