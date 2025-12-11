@@ -16,9 +16,9 @@ My focus is on practical problem solving, clean execution, and continuous learni
 
 # Projects
 
-## 1. Snake Game (HTML, CSS, JavaScript)
-**Live Demo:** https://khushikatwe.github.io/snake-game/  
-**Repository:** https://github.com/khushikatwe/snake-game  
+## 1. Meal Finder (JavaScript)
+**Live Demo:** https://khushikatwe.github.io/meal-finder/
+**Repository:** https://github.com/khushikatwe/meal-finder
 
 ---
 
@@ -82,7 +82,3 @@ My focus is on practical problem solving, clean execution, and continuous learni
 **Repository:** https://github.com/khushikatwe/snake-game  
 
 ---
-## 13. Meal Finder (JavaScript)
-**Live Demo:** https://khushikatwe.github.io/meal-finder/
-
-**Repository:** https://github.com/khushikatwe/meal-finder
