@@ -16,70 +16,56 @@ My focus is on practical problem solving, clean execution, and continuous learni
 
 # Projects
 
-## 1. Meal Finder (JavaScript)
-**Live Demo:** https://khushikatwe.github.io/meal-finder/
+1. Credit Card Fraud Detection (Python – ML Model + Flask API)
 
-**Repository:** https://github.com/khushikatwe/meal-finder
+Repository: https://github.com/khushikatwe/credit-card-fraud-detection
 
----
+2. Meal Finder (JavaScript)
 
-## 2. Candidate Registration Form (React via CDN)
-**Live Demo:** https://khushikatwe.github.io/candidate-form/  
-**Repository:** https://github.com/khushikatwe/candidate-form  
+Repository: https://github.com/khushikatwe/meal-finder
 
----
+3. Candidate Registration Form (React via CDN)
 
-## 3. Patient Monitoring System (C / Embedded Logic)
-**UI Prototype:** https://surf-chill-33285139.figma.site/  
-**Repository:** https://github.com/khushikatwe/Patient-Monitoring-System  
+Repository: https://github.com/khushikatwe/candidate-form
 
----
+4. Patient Monitoring System (C / Embedded Logic)
 
-## 4. Lyrics Search App (JavaScript)
-**Live Demo:** https://khushikatwe.github.io/Lyrics-search/  
-**Repository:** https://github.com/khushikatwe/Lyrics-search  
+UI Prototype: https://surf-chill-33285139.figma.site/
 
----
+Repository: https://github.com/khushikatwe/Patient-Monitoring-System
 
-## 5. Digital Diet App (Python)
-**Repository:** https://github.com/khushikatwe/digital-diet-app  
+5. Lyrics Search App (JavaScript)
 
----
+Repository: https://github.com/khushikatwe/Lyrics-search
 
-## 6. Sample Cleaning Script (Python)
-**Repository:** https://github.com/khushikatwe/sample-cleaning  
+6. Digital Diet App (Python)
 
----
+Repository: https://github.com/khushikatwe/digital-diet-app
 
-## 7. RaceLit Abstract Cleaner (Python)
-**Repository:** https://github.com/khushikatwe/RaceLit  
+7. Sample Cleaning Script (Python)
 
----
+Repository: https://github.com/khushikatwe/sample-cleaning
 
-## 8. Semantic Search Vector DB (Python – Embeddings + FAISS)
-**Repository:** https://github.com/khushikatwe/semantic-search-vector-db  
+8. RaceLit Abstract Cleaner (Python)
 
----
+Repository: https://github.com/khushikatwe/RaceLit
 
-## 9. SmartQ – Digital Token Queue System (HTML, JavaScript)
-**Live Demo:** https://khushikatwe.github.io/smartq/  
-**Repository:** https://github.com/khushikatwe/smartq  
+9. Semantic Search Vector DB (Python – Embeddings + FAISS)
 
----
+Repository: https://github.com/khushikatwe/semantic-search-vector-db
 
-## 10. Patient Monitoring System (IoT Prototype)
-**Repository:** https://github.com/khushikatwe/Patient-Monitoring-System  
+10. SmartQ – Digital Token Queue System (HTML, JavaScript)
 
----
+Repository: https://github.com/khushikatwe/smartq
 
-## 11. Candidate Registration Form (HTML Version)
-**Live Demo:** https://khushikatwe.github.io/candidate-form/  
-**Repository:** https://github.com/khushikatwe/candidate-form  
+11. Patient Monitoring System (IoT Prototype)
 
----
+Repository: https://github.com/khushikatwe/Patient-Monitoring-System
 
-## 12. Snake Game (JavaScript Version)
-**Live Demo:** https://khushikatwe.github.io/snake-game/  
-**Repository:** https://github.com/khushikatwe/snake-game  
+12. Candidate Registration Form (HTML Version)
 
----
+Repository: https://github.com/khushikatwe/candidate-form
+
+13. Snake Game (JavaScript Version)
+
+Repository: httpsgithub.com/khushikatwe/snake-game
