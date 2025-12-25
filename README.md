@@ -7,10 +7,8 @@ My focus is on practical problem solving, clean execution, and continuous learni
 ---
 
 ## Tech & Tools I Work With
-**Languages:** C, Java (Basics), Python (Basics), HTML, CSS  
+**Languages:** C, Java, Python, HTML, CSS  
 **Skills:** Data Handling, Problem Solving, Requirements Understanding  
 **Tools:** GitHub, Excel, Canva, VS Code  
 **Domains:** AI Basics, IoT Systems, Web Projects, Product Thinking  
-
----
 
