@@ -13,4 +13,4 @@ My focus is on practical problem solving, clean execution, and continuous learni
 **Domains:** AI Basics, IoT Systems, Web Projects, Product Thinking  
 
 ---
-)
+
